@@ -163,3 +163,15 @@ body{
   height: 115px;
   background:  #0bb5f4;
 }
+.resume .resume-right .resume-hobby ul{
+  display: flex;
+  justify-content: space-between;
+}
+.resume .resume-right .resume-hobby ul li{
+  width: 80px;
+  height: 80px;
+  border: 2px solid #0bb5f4;
+  border-radius: 50%;
+  position: relative;
+  color: #0bb5f4;
+}
